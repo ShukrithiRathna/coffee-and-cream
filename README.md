@@ -1,2 +1,2 @@
 # coffee-and-cream
-Blog Site
+Visit the blog site at https://shukrithirathna.github.io/coffee-and-cream/
